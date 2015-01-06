@@ -2,7 +2,8 @@
     "name": "plurk-buoy", 
     "license": "MPL 2.0", 
     "author": "kidwm", 
-    "version": "0.3", 
+    "contributors": "elleryq",
+    "version": "0.4",
     "fullName": "Plurk Buoy", 
     "id": "jid1-WznDAiwSf9cQNw", 
     "description": "Display the Plurk mobile version's link content in iframe, enhance the browsing experience on desktop."
