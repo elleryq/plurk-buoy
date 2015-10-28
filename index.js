@@ -1,6 +1,7 @@
 // This is Plurk Buoy Add-on
-var data = require("sdk/self").data;
- 
+var self = require("sdk/self");
+var data = self.data;
+
 var pageMod = require("sdk/page-mod");
 pageMod.PageMod({
 	include: [
